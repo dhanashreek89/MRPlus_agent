@@ -1,0 +1,1 @@
+The presentation talks about using vertex-programming for large scale graph analytics. Graph Analytics is getting popular since the breadth of problems requiring graph analytics is growing rapidly.  Graph Analytics faces several challenges in terms of problem size, little data locality, dynamic and imbalanced workload.
